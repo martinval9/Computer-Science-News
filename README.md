@@ -3,7 +3,7 @@ Made in HTML, CSS, JS, Jquery and ScrollReveal.js
 
 ## Desktop Edition
 
-Enter the following link and click on the download button
+Enter the following link(https://drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh) and click on the download button
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/drive.jpg)
 
