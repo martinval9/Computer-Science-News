@@ -1,5 +1,5 @@
 # Computer-Science-News
-Warning: This website exceeded the request limit and will be temporarily unavailable.
+Warning: The website exceeded the request limit and will be temporarily unavailable.
 I will remove this message when it is available again. Sorry.
 
 
