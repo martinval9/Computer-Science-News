@@ -13,6 +13,8 @@ Enter the following link(https://drive.google.com/drive/folders/1Xw_sDeJrofg_BSD
 
 Then, type the following commands:
 
+cd _your_download_directory_
+
 unzip DesktopEdition.zip
 
 cd Electron-App/ComputerScienseNews-linux-x64/Install
