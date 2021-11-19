@@ -23,7 +23,7 @@ Then, type the following commands:
 
 It is important that you do it in the /home folder
 
-unzip DesktopEdition.zip
+    unzip DesktopEdition.zip
 
 cd Electron-App/ComputerScienseNews-linux-x64/Install
 
