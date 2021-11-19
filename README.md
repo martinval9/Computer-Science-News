@@ -25,9 +25,9 @@ It is important that you do it in the /home folder
 
     unzip DesktopEdition.zip
 
-cd Electron-App/ComputerScienseNews-linux-x64/Install
+    cd Electron-App/ComputerScienseNews-linux-x64/Install
 
-sudo bash install.sh
+    sudo bash install.sh
 
 It should appear in the menu of your desktop environment
 
