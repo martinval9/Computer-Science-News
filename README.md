@@ -1,6 +1,6 @@
 # Computer-Science-News
 ### Warning: The website exceeded the request limit and will be temporarily unavailable.
-I will remove this message when it is available again. Sorry.
+### I will remove this message when it is available again. Sorry.
 
 
 Made in HTML, CSS, JS, Jquery and ScrollReveal.js
