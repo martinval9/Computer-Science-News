@@ -1,11 +1,13 @@
-function openMenu() {
+const openMenu = document.querySelector('.icon').addEventListener('click', () => {
     var navMain = document.getElementById('navMenuId');
     if (navMain.className === 'navMenu') {
         navMain.className += ' mobileView';
     } else {
         navMain.className = 'navMenu';
     }
-}
+    event.preventDefault()
+})
+
 
 var config = {
     reset:  true,
