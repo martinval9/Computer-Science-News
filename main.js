@@ -1,14 +1,3 @@
-const openMenu = document.querySelector('.icon').addEventListener('click', () => {
-    var navMain = document.getElementById('navMenuId');
-    if (navMain.className === 'navMenu') {
-        navMain.className += ' mobileView';
-    } else {
-        navMain.className = 'navMenu';
-    }
-    event.preventDefault()
-})
-
-
 var config = {
     reset:  true,
     mobile: true
@@ -17,7 +6,7 @@ var config = {
 window.sr = new scrollReveal( config );
 
 $(document).ready(function(){
-	$('.ir-arriba').click(() => {
+	$('.go-up-btn').click(() => {
             $('body, html').animate({
                 scrollTop: '0px'
             }, 300);
@@ -25,9 +14,9 @@ $(document).ready(function(){
 
 	$(window).scroll(() => {
 		if( $(this).scrollTop() > 0 ){
-			$('.ir-arriba').slideDown(300);
+			$('.go-up-btn').slideDown(300);
 		} else {
-			$('.ir-arriba').slideUp(300);
+			$('.go-up-btn').slideUp(300);
 		}
 	});
 

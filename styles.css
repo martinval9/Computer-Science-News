@@ -10,6 +10,7 @@ body {
     background: #000;
     color: #fff;
     font-family: 'Ubuntu', sans-serif;
+    line-height: normal !important;
 }
 
 h1 {
@@ -25,6 +26,14 @@ h2 {
 
 .container {
     position: relative;
+    padding: 0 !important;
+}
+
+@media (min-width: 576px) {
+    .container, .container-sm {
+        max-width: none !important;
+        padding: 0px !important; 
+    }
 }
 
 .bottomleft {
@@ -37,8 +46,8 @@ h2 {
 .container img {
     width: 100%;
     height: auto;
-    opacity: 0.4;
-    max-height: 450px;
+    opacity: 0.5;
+    max-height: 470px;
     object-fit: cover;
 }
 
@@ -61,110 +70,65 @@ a {
     color: #fff;
 }
 
-.navMenu {
-    overflow: hidden;
-    background-color: none;
+#nav-favicon {
+    width: 2.8%;
+    min-width: 37px;
+    max-width: 38px;
+}
+
+.bg-light {
+    background: #000 !important;
+}
+
+.navbar>.container-fluid {
+    background: #000 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #fff !important;
+    padding: 0px 5px;
+}
+
+.navbar-light .navbar-toggler-icon {
+    color: #fff;
+    display: contents;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    padding: 11px 8px;
+    color: #fff !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active:hover {
+    color: #00c7c0 !important;
+    background: #111;
+    border-radius: 3px;
+    transition: 0.1s !important;
+}
+
+button {
+    color: #fff !important;
+    transition: 0.1s !important;
+    padding: 10px 13px;
+}
+
+button:hover {
+    background: #111;
+    color: #00c7c0 !important;
+    transition: 0.1s;
+}
+
+.navbar-toggler {
     padding: 10px;
 }
 
-.navMenu a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px
-}
-
-.navMenu a.active {
-    background-color: none;
-    color: #FFF
-}
-
-.navMenu .icon {
-    display: none
-}
-
-.fa-bars:before {
-    content: "\f0c9"
-}
-
-.navMenu .dropdown {
-    float: left;
-    overflow: hidden;
-}
-
-.navMenu .dropdown .dropbtn {
-    font-size: 16px;
-    border: none;
-    outline: none;
-    color: #FFFFFF;
-    padding: 14px 16px;
-    background-color: none;
-    font-family: inherit;
-    margin: 0;
-    width: 100%;
-    text-align: left;
-    transition: 0.1s;
-}
-
-.main_links {
-    background-color: none;
-    color: #FFFFFF;
-    transition: 0.1s;
-    border-radius: 3px;
-}
-
-.main_links:hover {
-    background-color: rgba(46, 46, 46, 0.3);
-    color: #00c7c0;
-    transition: 0.2s;
-    border-radius: 3px;
-}
-
-.navMenu .navbar a:hover,
-.navMenu .dropdown:hover .dropbtn {
-    background-color: #333;
-    color: #FFFFFF;
-    cursor: pointer;
-    transition: 0.1s;
-}
-
-.navMenu .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #000;
-    min-width: 160px;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-    z-index: 1
-}
-
-.navMenu .dropdown-content a {
-    float: none;
-    color: #FFF;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-    background-color: #111;
-    color: #fff;
-    transition: 0.1s;
-}
-
-.navMenu .dropdown-content a:hover {
-    background-color: #333;
-    color: #FFFFFF;
-    transition: 0.1s;
-}
-
-.navMenu .dropdown:hover .dropdown-content {
-    display: block
+.navbar-toggler:focus {
+    box-shadow: none !important;
 }
 
 @media screen and (max-width: 450px) {
     h1 {
-        font-size: 30px;
+        font-size: 24px;
     }
 
     h2 {
@@ -180,52 +144,11 @@ a {
     .parent div {
         margin: 10px;
     }
+}
 
-    .navMenu a:not(:first-child) {
-        display: none
-    }
-
-    .navMenu .dropdown {
-        display: none
-    }
-
-    .navMenu a.icon {
-        float: right;
-        display: block;
-        transition: 0.1s;
-    }
-
-    .navMenu a.icon:hover {
-        background: rgba(46, 46, 46, 0.3);
-        border-radius: 3px;
-        color: #00c7c0;
-        transition: 0.1s;
-    }
-
-    .navMenu.mobileView {
-        position: relative
-    }
-
-    .navMenu.mobileView .icon {
-        position: absolute;
-        right: 10px;
-        top: 10px;
-    }
-
-    .navMenu.mobileView a {
-        float: none;
-        display: block;
-        text-align: left
-    }
-
-    .navMenu.mobileView .dropdown {
-        float: none;
-        display: block;
-        text-align: left
-    }
-
-    .navMenu .dropdown-content {
-        position: relative
+@media screen and (max-width: 350px) {
+    #nav-favicon {
+        display: none;
     }
 }
 
@@ -247,6 +170,11 @@ a {
 .parent div:hover {
     border: 1px solid #999;
     transition: 0.2s;
+    color: #ddd !important;
+}
+
+a:hover {
+    color: #fff !important;
 }
 
 .preview {
@@ -257,6 +185,15 @@ footer {
     text-align: center;
     padding: 14px;
     background: #111;
+}
+
+#martinval9-github {
+    transition: 0.1s !important;
+}
+
+#martinval9-github:hover {
+    color: #00c7c0 !important;
+    transition: 0.1s !important;
 }
 
 @media screen and (max-width: 900px) {
@@ -298,7 +235,6 @@ footer {
     margin-top: 5px;
 }
 
-
 .arrow,
 .arrow:before {
     position: absolute;
@@ -324,8 +260,8 @@ footer {
     margin: -10px 0 0 -10px;
     border-left: none;
     border-top: none;
-    border-right: 1px #fff solid;
-    border-bottom: 1px #fff solid;
+    border-right: 1px #00ddd6 solid;
+    border-bottom: 1px #00ddd6 solid;
     animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-name: arrow;
@@ -342,7 +278,7 @@ footer {
     }
 }
 
-.ir-arriba {
+.go-up-btn {
     display: none;
     padding: 16px 18px;
     background: #007774;
@@ -355,7 +291,7 @@ footer {
     border-radius: 50%;
 }
 
-.ir-arriba:hover {
+.go-up-btn:hover {
     background: #004d4a;
     transition: 0.2s;
 }
