@@ -9,6 +9,9 @@ Made in HTML, CSS, JS, Jquery and ScrollReveal.js
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation2.jpg)
 
+Mobile Version(Pixel 2):
+![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation_mobile.png)
+
 ## Desktop Edition
 
 Enter the following link(https://drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh) and click on the download button
