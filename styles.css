@@ -24,15 +24,53 @@ h2 {
     color: #bbb;
 }
 
+.w-100 {
+    max-height: 490px;
+    object-fit: cover;
+    opacity: 0.5;
+    width: 100% !important;
+    height: 320px !important;
+}
+
+.carousel-control-prev:hover {
+    background: none !important;
+    opacity: 0.3;
+    transition: 0.1s;
+}
+
+.carousel-control-next:hover {
+    background: none !important;
+    opacity: 0.3;
+    transition: 0.1s;
+}
+
 .container {
     position: relative;
     padding: 0 !important;
 }
 
+.carousel-item a {
+    transition: 0.1s;
+    color: #aaa;
+}
+
+.carousel-item a:hover {
+    transition: 0.1s;
+    color: #00ddd6 !important;
+}
+
+@media (min-width: 830px) {
+    .w-100 {
+        height: auto !important;
+    }
+}
+
 @media (min-width: 576px) {
-    .container, .container-sm {
+
+    .container,
+    .container-sm {
         max-width: none !important;
-        padding: 0px !important; 
+        padding: 0px !important;
     }
 }
 
@@ -41,14 +79,6 @@ h2 {
     bottom: 14px;
     left: 16px;
     font-size: 18px;
-}
-
-.container img {
-    width: 100%;
-    height: auto;
-    opacity: 0.5;
-    max-height: 470px;
-    object-fit: cover;
 }
 
 img {
@@ -196,7 +226,7 @@ footer {
     transition: 0.1s !important;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 860px) {
     .parent {
         display: initial !important;
         padding: 10px;
