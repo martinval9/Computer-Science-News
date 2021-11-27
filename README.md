@@ -1,6 +1,7 @@
 # Computer-Science-News
 
 Made in HTML, CSS, JS, Jquery and ScrollReveal.js
+Status: Active
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation.jpg)
 
