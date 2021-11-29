@@ -51,6 +51,10 @@ a {
     max-width: 38px;
 }
 
+.navbar-collapse {
+    text-align: center;
+}
+
 .bg-light {
     background: #000 !important;
 }

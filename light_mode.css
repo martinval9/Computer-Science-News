@@ -7,11 +7,15 @@
 }
 
 body {
-    background: #000;
-    color: #fff;
+    background: #fff;
+    color: #000;
     font-family: 'Ubuntu', sans-serif;
     line-height: normal !important;
     cursor: default;
+}
+
+header {
+    background: #000;
 }
 
 h1 {
@@ -97,7 +101,11 @@ section img {
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #000;
+}
+
+a:hover {
+    color: #000 !important;
 }
 
 #nav-favicon {
@@ -120,7 +128,7 @@ a {
 }
 
 .navbar-light .navbar-brand:hover {
-    color: #fff;
+    color: #fff !important;
 }
 
 .navbar-collapse {
@@ -200,23 +208,19 @@ button:hover {
 }
 
 .parent div {
-    border: 1px solid #444;
+    box-shadow: 1px 1px 10px #aaa;
     padding: 10px;
     transition: 0.2s;
 }
 
 .parent div:hover {
-    border: 1px solid #999;
+    box-shadow: 1px 1px 10px #777;
     transition: 0.2s;
-    color: #bbb;
+    color: #222;
 }
 
 .parent a {
     cursor: default;
-}
-
-a:hover {
-    color: #fff !important;
 }
 
 .preview {
@@ -231,6 +235,11 @@ footer {
     text-align: center;
     padding: 14px;
     background: #111;
+    color: #fff;
+}
+
+footer a {
+    color: #aaa;
 }
 
 #martinval9-github {
@@ -259,7 +268,7 @@ footer {
 }
 
 ::-webkit-scrollbar-track {
-    background: #000;
+    background: #222;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -294,8 +303,8 @@ footer {
     transform: rotate(45deg);
     border-left: none;
     border-top: none;
-    border-right: 2px #fff solid;
-    border-bottom: 2px #fff solid;
+    border-right: 2px #000 solid;
+    border-bottom: 2px #000 solid;
 }
 
 .arrow:before {
@@ -306,8 +315,8 @@ footer {
     margin: -10px 0 0 -10px;
     border-left: none;
     border-top: none;
-    border-right: 1px #00ddd6 solid;
-    border-bottom: 1px #00ddd6 solid;
+    border-right: 1px #00a19c solid;
+    border-bottom: 1px #00a19c solid;
     animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-name: arrow;
@@ -345,5 +354,5 @@ footer {
 .scroll_down {
     text-align: center;
     margin-top: 35px;
-    color: #e9e9e9;
+    color: #000;
 }
