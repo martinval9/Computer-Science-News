@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://github.com/martinval9/Computer-Science-News/blob/main/public/img/favicon.png"/ width="100" height="100">
   
-  Made in React, Bootstrap and Scrollreveal.js
+  <span>
+    Made in React, Bootstrap and Scrollreveal.js
 
-  Status: Active
+    Status: Active
+  </span>
 </p>
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation.jpg)
