@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/martinval9/Computer-Science-News/blob/main/public/img/favicon.png"/>
+  <img src="https://github.com/martinval9/Computer-Science-News/blob/main/public/img/favicon.png"/ width="100" height="100">
 </p>
 
 # Computer-Science-News
