@@ -8,7 +8,7 @@ Status: Active
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation2.jpg)
 
 ## Desktop Edition
-Enter the following link(<a href="https://drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh">drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh</a>) and click on the download button
+Enter the following link(<a href="https://drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh" target="_blank">drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh</a>) and click on the download button
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/drive.jpg)
 
