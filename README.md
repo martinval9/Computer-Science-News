@@ -1,30 +1,70 @@
-# Computer-Science-News
+# Getting Started with Create React App
 
-Made in HTML, CSS, JS, Jquery and ScrollReveal.js
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Status: Active
+## Available Scripts
 
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation.jpg)
+In the project directory, you can run:
 
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation2.jpg)
+### `npm start`
 
-## Desktop Edition
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Enter the following link(https://drive.google.com/drive/folders/1Xw_sDeJrofg_BSDtfpVShXUeD54MsUJh) and click on the download button
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/drive.jpg)
+### `npm test`
 
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/download_warning.jpg)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/download_finished.jpg)
+### `npm run build`
 
-Then, type the following commands:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-It is important that you do it in the /home folder
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-    unzip DesktopEdition.zip && cd Electron-App/ComputerScienceNews-linux-x64/Install/ && sudo bash install.sh
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-It should appear in the menu of your desktop environment
+### `npm run eject`
 
-Result:
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/desktop_presentation.jpg)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
