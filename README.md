@@ -1,10 +1,6 @@
 # Computer-Science-News
 Made in React, Bootstrap and Scrollreveal.js
 
-![npm](https://img.shields.io/npm/v/@euk-labs/martinval9)
-![NPM](https://img.shields.io/npm/l/@euk-labs/martinval9)
-![npm](https://img.shields.io/npm/dw/@euk-labs/martinval9)
-
 Status: Active
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation.jpg)
