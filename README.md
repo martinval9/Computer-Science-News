@@ -1,5 +1,5 @@
 # Computer-Science-News
-Made in React, Bootstrap, Scrollreveal.js
+Made in React, Bootstrap and Scrollreveal.js
 
 Status: Active
 
