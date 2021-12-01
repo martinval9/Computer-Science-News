@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/martinval9/Computer-Science-News/blob/main/public/img/favicon.png"/>
+</p>
+
 # Computer-Science-News
 Made in React, Bootstrap and Scrollreveal.js
 
