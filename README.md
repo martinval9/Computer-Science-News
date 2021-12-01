@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/martinval9/Computer-Science-News/blob/main/public/img/favicon.png"/ width="100" height="100">
-  
+  <br>
   <span>
     Made in React, Bootstrap and Scrollreveal.js
 
