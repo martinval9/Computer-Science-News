@@ -5,6 +5,7 @@
   <br>
   <span>
     Made in React, Bootstrap and Scrollreveal.js
+    <br>
     Status: Active
   </span>
 </p>
