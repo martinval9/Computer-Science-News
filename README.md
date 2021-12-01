@@ -7,6 +7,8 @@
     Made in React, Bootstrap and Scrollreveal.js
     <br>
     Status: Active
+    <br>
+    <a target="_blank" href="LICENSE" title="License: GPL"><img src="https://img.shields.io/badge/License-GPL-blue.svg"></a>
   </span>
 </p>
 
