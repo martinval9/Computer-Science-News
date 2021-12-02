@@ -8,6 +8,7 @@
     <br>
     Status: Active
     <br>
+    <a target="_blank" href="https://app.netlify.com/sites/computer-science-nw/deploys"><img src="https://api.netlify.com/api/v1/badges/24616667-f5c8-46c1-993f-12e746c65eb9/deploy-status"></a>
     <a target="_blank" href="LICENSE" title="License: GPL"><img src="https://img.shields.io/badge/License-GPL-blue.svg"></a>
   </span>
 </p>
