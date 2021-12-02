@@ -1,5 +1,7 @@
 import '../index.css'
 
+let alt_antiwarning = undefined
+
 const News = () => {
 	return (
 		<><div className="parent">
@@ -8,7 +10,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					Xiaomi’s CyberDog Robot Runs Ubuntu
 					<br /><br />
-					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/12/xiaomi-cyberdog-face-768x440.jpg" loading="lazy" />
+					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/12/xiaomi-cyberdog-face-768x440.jpg" loading="lazy" alt={alt_antiwarning}/>
 				</div>
 			</a>
 
@@ -17,7 +19,7 @@ const News = () => {
 					Intel and Canonical to secure containers software supply chain
 					<br /><br />
 					<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_486,h_316/https://ubuntu.com/wp-content/uploads/ac49/ov_chart.png"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -26,7 +28,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					Welcome to Fleet!
 					<br /><br />
-					<img src="https://blog.jetbrains.com/wp-content/uploads/2021/11/Simple-editor.png" loading="lazy" />
+					<img src="https://blog.jetbrains.com/wp-content/uploads/2021/11/Simple-editor.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -36,7 +38,7 @@ const News = () => {
 					This Week in Programming: When Linux Was ‘Just a Hobby’
 					<br /><br />
 					<img src="https://cdn.thenewstack.io/media/2021/08/db2f74d1-birthdaycake-1024x576.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -46,7 +48,7 @@ const News = () => {
 					Aura Theme v2.0.0 is out now! 🥳 🎉
 					<br /><br />
 					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dcq3duqU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbkjdro8kbqow4318lcq.png"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -55,7 +57,7 @@ const News = () => {
 					Ferdi: A Free & Open-Source Alternative to Franz & Rambox
 					<br /><br />
 					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/10/ferdi-screenshot.png?w=800&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -66,7 +68,7 @@ const News = () => {
 
 					<br /><br />
 					<img src="https://user-images.githubusercontent.com/41906128/88968573-0b556400-d29f-11ea-8504-8ecd9c292263.png"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -76,7 +78,7 @@ const News = () => {
 					A cli to watch anime using the console/terminal
 					<br /><br />
 					<img src="https://user-images.githubusercontent.com/78381898/143662416-b45e7750-3ff2-4ff8-9e06-f8fc1ef0ce8e.png"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -86,7 +88,7 @@ const News = () => {
 					14 New Security Flaws Found in BusyBox Linux Utility for Embedded Devices
 					<br /><br />
 					<img src="https://thehackernews.com/new-images/img/a/AVvXsEgT7hR-OjNEnEtm9f_Z7RqXviIQd_DwXCI9Emyy0X9qpPUtA_XNynFeXTXOrcnDl1Je8IFuqXZIMPa8UTu5KN7YiOnyjg-fIdFiht1mEvzJNu9jrflb2kZ59m_dXMf3olE6q2lfOywmVNloJLanTYtM2vn2M_w3aeZiJiMssk-Xgq05HJHSjWvx-UsM=s728-e1000"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -96,7 +98,7 @@ const News = () => {
 					How to design a business card with Inkscape
 					<br /><br />
 					<img src="https://fedoramagazine.org/wp-content/uploads/2021/11/inkscape-business-card-816x345.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -106,7 +108,7 @@ const News = () => {
 					DevOps Needs SQL Server Containers for Windows
 					<br /><br />
 					<img src="https://containerjournal.com/wp-content/uploads/2021/03/canstockphoto20033327.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -116,7 +118,7 @@ const News = () => {
 					Mute your mic while you're typing, An app for Ubuntu
 					<br /><br />
 					<img src="https://camo.githubusercontent.com/c83dc511057bfebcfe4120d2199dfe47c83c633e4a7123e6b0d7b24b1a44db96/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f69635842376a387a5551672f6d617872657364656661756c742e6a7067"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -124,7 +126,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					Git for Managing Small Projects
 					<br /><br />
-					<img src="https://cdn.thenewstack.io/media/2021/08/4ce8bc99-git.png" loading="lazy" />
+					<img src="https://cdn.thenewstack.io/media/2021/08/4ce8bc99-git.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -133,7 +135,7 @@ const News = () => {
 					jpochyla/psst: Fast and multi-platform Spotify client with native GUI
 					<br /><br />
 					<img src="https://github.com/jpochyla/psst/raw/master/psst-gui/assets/screenshot.png"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -142,7 +144,7 @@ const News = () => {
 					How to Install Google Chrome on Debian and Kali Linux
 					<br /><br />
 					<img src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2021/09/Chrom-in-Debian.webp?resize=800%2C450&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -152,7 +154,7 @@ const News = () => {
 					NGINX and CIS Hardened Images Equals Security and Efficiency
 					<br /><br />
 					<img src="https://images.idgesg.net/images/article/2021/10/nginx-cis-hardened-images-security-at-top-efficiency-100905884-large.jpg?auto=webp&quality=85,70"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -161,7 +163,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					It's time to update Docker Engine
 					<br /><br />
-					<img src="https://about.gitlab.com/images/blogimages/library/engineering.png" loading="lazy" />
+					<img src="https://about.gitlab.com/images/blogimages/library/engineering.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -169,7 +171,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					A graph plotting app for GNOME
 					<br /><br />
-					<img src="https://pythonawesome.com/content/images/2021/08/screenshot_fourier.png" loading="lazy" />
+					<img src="https://pythonawesome.com/content/images/2021/08/screenshot_fourier.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -178,7 +180,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					PanGraphViewer: show panenome graph in an easy way
 					<br /><br />
-					<img src="https://github.com/TF-Chan-Lab/panGraphViewer/raw/main/doc/src/demo.jpg" loading="lazy" />
+					<img src="https://github.com/TF-Chan-Lab/panGraphViewer/raw/main/doc/src/demo.jpg" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -188,7 +190,7 @@ const News = () => {
 					An advanced multi-threaded, multi-client python reverse shell for hacking linux systems
 
 					<br /><br />
-					<img src="https://github.com/0xTRAW/PwnLnX/raw/main/res/waiting_con.png" loading="lazy" />
+					<img src="https://github.com/0xTRAW/PwnLnX/raw/main/res/waiting_con.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -198,7 +200,7 @@ const News = () => {
 					How to install Figma on Linux
 					<br /><br />
 					<img src="https://cdn.devdojo.com/posts/images/September2021/how-to-install-figma-on-linux1.jpg?auto=format&q=70&w=1280"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -208,7 +210,7 @@ const News = () => {
 					Linux/BSD command line wizardry: Learn to think in sed, awk, and grep
 					<br /><br />
 					<img src="https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-950753248-800x1067.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -217,7 +219,7 @@ const News = () => {
 					openSUSE Leap vs Tumbleweed: What’s the Difference?
 					<br /><br />
 					<img src="https://i0.wp.com/itsfoss.com/wp-content/uploads/2021/11/opensuse-leap-vs-tumbleweed.png?w=800&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -227,7 +229,7 @@ const News = () => {
 					Get memory use statistics with this Linux command-line tool
 					<br /><br />
 					<img src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/programming_code_keyboard_orange_hands.png?itok=G6tJ_64Y"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -237,7 +239,7 @@ const News = () => {
 					How to kill a zombie process on Linux
 					<br /><br />
 					<img src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/ganapathy-kumar-unsplash.jpg?itok=5-DT99NA"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -246,7 +248,7 @@ const News = () => {
 					How to Know if Your System Uses MBR or GPT Partitioning [on Windows and Linux]
 					<br /><br />
 					<img src="https://i0.wp.com/itsfoss.com/wp-content/uploads/2021/07/check-if-mbr-or-gpt-in-Linux-gui.png?resize=800%2C548&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -256,7 +258,7 @@ const News = () => {
 					Vote in the Ubuntu 21.10 wallpaper competition
 					<br /><br />
 					<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/f960/wallpaper-contest-tile.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -265,7 +267,7 @@ const News = () => {
 					What is the Latest Ubuntu Version? Which one to use?
 					<br /><br />
 					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2020/01/ubuntu_yaru_light_dark_theme.jpg?w=800&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -275,7 +277,7 @@ const News = () => {
 					Make Linux apps for Notion, Mastodon, or any web app using Nativefier
 					<br /><br />
 					<img src="https://www.ayushsharma.in/static/images/img-normal/2021-10-10-make-linux-apps-for-notion-mastodon-webapps-using-nativefier-banner.png"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -283,7 +285,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					Announcing the PHP Foundation
 					<br /><br />
-					<img src="https://laravelnews.imgix.net/images/phplogo.jpg?ixlib=php-3.3.1" loading="lazy" />
+					<img src="https://laravelnews.imgix.net/images/phplogo.jpg?ixlib=php-3.3.1" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -292,7 +294,7 @@ const News = () => {
 					Django And React Notes App
 					<br /><br />
 					<img src="https://camo.githubusercontent.com/4decb14a3a09c5f45039a6ecf88037a841c7e12baf612251976831daf7613462/687474703a2f2f69332e7974696d672e636f6d2f76692f74594b52415849696f32382f6d617872657364656661756c742e6a7067"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -302,7 +304,7 @@ const News = () => {
 					A Script Gathering for Windows/Linux systems written in Python
 					<br /><br />
 					<img src="https://camo.githubusercontent.com/4354aa5b58f6fbf2f06528c990bebd340fb97bf7382022369e5d48709d623a60/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383238333730363338383730393337362f3930383336323933353535323836303139302f756e6b6e6f776e2e706e67"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -311,7 +313,7 @@ const News = () => {
 					Mount Microsoft OneDrive in Linux With OneDriver GUI Tool
 					<br /><br />
 					<img src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2021/08/one-drive-linux.png?w=800&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -320,7 +322,7 @@ const News = () => {
 					How to Stop a Program in Linux Terminal
 					<br /><br />
 					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/09/stop-a-program-linux-terminal.png?resize=800%2C373&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -329,7 +331,7 @@ const News = () => {
 					Element: A Cross-Platform Decentralized Open-Source Messaging App
 					<br /><br />
 					<img src="https://i0.wp.com/itsfoss.com/wp-content/uploads/2021/06/element-io.png?w=800&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -339,7 +341,7 @@ const News = () => {
 					Redirect Systemd Unit Logs to Syslog
 					<br /><br />
 					<img src="https://cdn.devdojo.com/posts/images/October2021/redirect-systemd-unit-logs-to-syslog1.jpg?auto=format&q=70&w=1280"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -349,7 +351,7 @@ const News = () => {
 					Firefox 93 Release-outd with AVIF Support, Insecure Download Protection
 					<br /><br />
 					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/10/firefox-93.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -358,7 +360,7 @@ const News = () => {
 					UNIX commands cheatsheet
 					<br /><br />
 					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nZsg9ZEE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oujuvj8caot7c79i3v65.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -367,7 +369,7 @@ const News = () => {
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
 					Development: Connect git to GitLab for Small Projects
 					<br /><br />
-					<img src="https://cdn.thenewstack.io/media/2021/11/4d091720-gitlab.png" loading="lazy" />
+					<img src="https://cdn.thenewstack.io/media/2021/11/4d091720-gitlab.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -377,7 +379,7 @@ const News = () => {
 					SoftMaker FreeOffice 2021 Now Available to Download
 					<br /><br />
 					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/10/softmaker-freeoffice-icons.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -387,7 +389,7 @@ const News = () => {
 					Microsoft Office 2021 Includes Better Support for LibreOffice Files
 					<br /><br />
 					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/10/microsoft-office-2021.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -396,7 +398,7 @@ const News = () => {
 					How to Install Visual Studio Code Extensions
 					<br /><br />
 					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/10/01-all-extensions-1.webp?resize=800%2C450&ssl=1"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -405,7 +407,7 @@ const News = () => {
 					Find files and directories on Linux with the find command
 					<br /><br />
 					<img src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/find-file-linux-code_magnifying_glass_zero.png?itok=E2HoPDg0"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -415,7 +417,7 @@ const News = () => {
 					Announcing HashiCorp Boundary 0.6
 					<br /><br />
 					<img src="https://www.datocms-assets.com/2885/1620083536-blog-library-product-boundary-dark-graphics.jpg"
-						loading="lazy" />
+						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 			<span className="go-up-btn icon-arrow-up2"><i className="fas fa-arrow-up"></i></span>
