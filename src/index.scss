@@ -204,9 +204,9 @@ button {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
-  padding: 15px;
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  padding: 13px;
 
   div {
     border: 1px solid #444;
@@ -230,8 +230,8 @@ button {
 
   img {
     width: 100%;
-    max-height: 175px;
-    min-height: 175px;
+    max-height: 185px;
+    min-height: 185px;
     border-radius: 3px;
     object-fit: cover;
   }

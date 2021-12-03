@@ -211,9 +211,9 @@ button:hover {
       grid-template-columns: repeat(4, 1fr);
   -ms-grid-rows: (1fr)[4];
       grid-template-rows: repeat(4, 1fr);
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
-  padding: 15px;
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  padding: 13px;
 }
 
 .parent div {
@@ -244,8 +244,8 @@ button:hover {
 
 .preview img {
   width: 100%;
-  max-height: 175px;
-  min-height: 175px;
+  max-height: 185px;
+  min-height: 185px;
   border-radius: 3px;
   -o-object-fit: cover;
      object-fit: cover;
