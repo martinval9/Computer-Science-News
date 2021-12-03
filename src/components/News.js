@@ -32,12 +32,12 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://thenewstack.io/this-week-in-programming-when-linux-was-just-a-hobby/" target="_blank"
+			<a href="https://cult.honeypot.io/reads/highest-paying-programming-languages/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					This Week in Programming: When Linux Was ‘Just a Hobby’
+					Top 7 Highest Paid Programming Languages 2021
 					<br /><br />
-					<img src="https://cdn.thenewstack.io/media/2021/08/db2f74d1-birthdaycake-1024x576.jpg"
+					<img src="https://images.ctfassets.net/cjwb7umaxoxv/CsGR8nXS2aH06inBFk1Ob/7e16286c50e8d1e6b160688d22c378f2/MOSHED-2021-11-29-19-19-29__1_.jpg?w=600&fl=progressive&q=85"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -61,23 +61,21 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://golangexample.com/an-open-source-gitlab-command-line-tool-bringing-gitlabs-cool-features-to-your-command-line/"
-				target="_blank" rel="noopener noreferrer">
+			<a href="https://levelup.gitconnected.com/top-30-git-commands-you-should-know-to-master-git-cli-f04e041779bc" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					An open-source GitLab command line tool bringing GitLab's cool features to your command line
-
+					Top 30 Git Commands You Should Know To Master Git CLI
 					<br /><br />
-					<img src="https://user-images.githubusercontent.com/41906128/88968573-0b556400-d29f-11ea-8504-8ecd9c292263.png"
+					<img src="https://miro.medium.com/max/1400/1*Z5zbBRQz6SaX0LA5D7hAJQ.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://golangexample.com/a-cli-to-watch-anime-using-the-console-terminal/" target="_blank"
+			<a href="https://supabase.com/blog/2021/11/30/supabase-studio" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					A cli to watch anime using the console/terminal
+					Supabase Studio
 					<br /><br />
-					<img src="https://user-images.githubusercontent.com/78381898/143662416-b45e7750-3ff2-4ff8-9e06-f8fc1ef0ce8e.png"
+					<img src="https://supabase.com/images/blog/launch-week-three/studio/open-source-studio-thumb.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -102,123 +100,122 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://containerjournal.com/features/devops-needs-sql-server-containers-for-windows/"
+			<a href="https://astrodevil.hashnode.dev/25-must-visit-killer-websites-for-developers"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					DevOps Needs SQL Server Containers for Windows
+					25 Must-Visit Killer Websites For Developers
 					<br /><br />
-					<img src="https://containerjournal.com/wp-content/uploads/2021/03/canstockphoto20033327.jpg"
+					<img src="https://astrodevil.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638381453175%2FdKSHj75LD.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://pythonawesome.com/mute-your-mic-while-youre-typing-an-app-for-ubuntu/" target="_blank"
+			<a href="https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Mute your mic while you're typing, An app for Ubuntu
+					5 Signs It’s Time to Quit Your Job
 					<br /><br />
-					<img src="https://camo.githubusercontent.com/c83dc511057bfebcfe4120d2199dfe47c83c633e4a7123e6b0d7b24b1a44db96/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f69635842376a387a5551672f6d617872657364656661756c742e6a7067"
+					<img src="https://i2.wp.com/cate.blog/wp-content/uploads/2021/11/light-bulb-gecd689e2e_1920.jpg?resize=768%2C506&ssl=1"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://thenewstack.io/git-for-managing-small-projects/" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.freecodecamp.org/news/what-is-json-a-json-file-example/" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Git for Managing Small Projects
+					JSON for Beginners – JavaScript Object Notation Explained in Plain English
 					<br /><br />
-					<img src="https://cdn.thenewstack.io/media/2021/08/4ce8bc99-git.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/freeCodeCamp-Cover-1.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://api.daily.dev/r/IuuCwSP7a" target="_blank" rel="noopener noreferrer">
+			<a href="https://javascript.plainenglish.io/what-is-duck-typing-in-typescript-c537d2ff9b61" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					jpochyla/psst: Fast and multi-platform Spotify client with native GUI
+					Introduction to Duck Typing in TypeScript
 					<br /><br />
-					<img src="https://github.com/jpochyla/psst/raw/master/psst-gui/assets/screenshot.png"
+					<img src="https://miro.medium.com/max/1400/1*tdukZdneKqM-5jPgapYYRQ.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/install-chrome-debian-kali-linux/" target="_blank" rel="noopener noreferrer">
+			<a href="https://hackernoon.com/top-3-coding-challenges-for-expert-level-react-developers" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to Install Google Chrome on Debian and Kali Linux
+					Top 3 Coding Challenges for Expert-Level React Developers
 					<br /><br />
-					<img src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2021/09/Chrom-in-Debian.webp?resize=800%2C450&ssl=1"
+					<img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FARCWTrgYpoc531106B2eMedWoT42-h7037ob.jpeg&w=1920&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://www.infoworld.com/article/3635690/nginx-and-cis-hardened-images-equals-security-and-efficiency.html"
+			<a href="https://dev.to/0shuvo0/lets-create-a-pixel-art-maker-with-javascript-4016"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					NGINX and CIS Hardened Images Equals Security and Efficiency
+					Let's create a Pixel Art maker with JavaScript
 					<br /><br />
-					<img src="https://images.idgesg.net/images/article/2021/10/nginx-cis-hardened-images-security-at-top-efficiency-100905884-large.jpg?auto=webp&quality=85,70"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ycg7HoKw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aknpa8cia14zo8h9rgwl.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://about.gitlab.com/blog/2021/08/26/its-time-to-upgrade-docker-engine/" target="_blank"
+			<a href="https://dev.to/andyrewlee/why-i-no-longer-use-graphql-for-new-projects-1oig" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					It's time to update Docker Engine
+					Why I no longer use GraphQL for new projects
 					<br /><br />
-					<img src="https://about.gitlab.com/images/blogimages/library/engineering.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--U98iprts--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xzhupmjflx7p3av4mdn8.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://api.daily.dev/r/EdQL_6VibJ" target="_blank" rel="noopener noreferrer">
+			<a href="https://itnext.io/interfaces-vs-types-in-typescript-cf5758211910" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					A graph plotting app for GNOME
+					Interfaces vs Types in TypeScript
 					<br /><br />
-					<img src="https://pythonawesome.com/content/images/2021/08/screenshot_fourier.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://miro.medium.com/max/1400/1*zAxmxaUqrpy5Jzj2zr0OeA.jpeg" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://pythonawesome.com/pangraphviewer-show-panenome-graph-in-an-easy-way/" target="_blank"
+			<a href="https://blog.logrocket.com/svelte-actions-introduction/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					PanGraphViewer: show panenome graph in an easy way
+					Introduction to Svelte Actions
 					<br /><br />
-					<img src="https://github.com/TF-Chan-Lab/panGraphViewer/raw/main/doc/src/demo.jpg" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://blog.logrocket.com/wp-content/uploads/2021/11/svelte-actions-introduction.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://pythonawesome.com/an-advanced-multi-threaded-multi-client-python-reverse-shell-for-hacking-linux-systems/"
+			<a href="https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					An advanced multi-threaded, multi-client python reverse shell for hacking linux systems
-
+					New Free Bootcamps Based on freeCodeCamp – Learn JavaScript & Web Development with Weekly Live Streams
 					<br /><br />
-					<img src="https://github.com/0xTRAW/PwnLnX/raw/main/res/waiting_con.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/free-bootcamp-image-updated.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://devdojo.com/anishde12020/how-to-install-figma-on-linux" target="_blank"
+			<a href="https://sdtimes.com/softwaredev/jetbrains-previews-new-lightweight-polyglot-editor-fleet/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to install Figma on Linux
+					JetBrains previews new lightweight, polyglot editor Fleet
 					<br /><br />
-					<img src="https://cdn.devdojo.com/posts/images/September2021/how-to-install-figma-on-linux1.jpg?auto=format&q=70&w=1280"
+					<img src="https://sdtimes.com/wp-content/uploads/2021/11/Simple-editor-490x364.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/"
+			<a href="https://dev.to/iamludal/custom-react-hooks-usenetworkstate-1kj6"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Linux/BSD command line wizardry: Learn to think in sed, awk, and grep
+					Custom React Hooks: useNetworkState
 					<br /><br />
-					<img src="https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-950753248-800x1067.jpg"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mlw5VM0a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0vvmvad7zbfey8wlbcz.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="openSUSE Leap vs Tumbleweed: What’s the Difference?" target="_blank" rel="noopener noreferrer">
+			<a href="https://devdojo.com/bobbyiliev/building-a-real-time-web-application-with-materialize-and-adonisjs" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					openSUSE Leap vs Tumbleweed: What’s the Difference?
+					Building a real-time web application with Materialize and AdonisJS
 					<br /><br />
-					<img src="https://i0.wp.com/itsfoss.com/wp-content/uploads/2021/11/opensuse-leap-vs-tumbleweed.png?w=800&ssl=1"
+					<img src="https://cdn.devdojo.com/posts/images/November2021/building-a-real-time-web-application-with-materialize-and-adonisjs2.jpg?auto=format&q=70&w=1280"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -298,12 +295,12 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://pythonawesome.com/a-script-gathering-for-windows-linux-systems-written-in-python/"
+			<a href="https://fauna.com/blog/how-to-fetch-data-from-a-database-using-node-js"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					A Script Gathering for Windows/Linux systems written in Python
+					How to fetch data from a database using Node.js
 					<br /><br />
-					<img src="https://camo.githubusercontent.com/4354aa5b58f6fbf2f06528c990bebd340fb97bf7382022369e5d48709d623a60/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737383238333730363338383730393337362f3930383336323933353535323836303139302f756e6b6e6f776e2e706e67"
+					<img src="https://fauna.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fpo4qc9xpmpuh%2F5iiAVp7RbhFJoqx7uS8lUJ%2F1fc111bd26a191dd6402285466514601%2Fnodejs-fetch__1_.png&w=1200&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
