@@ -5,20 +5,20 @@ let alt_antiwarning = undefined
 const News = () => {
 	return (
 		<><div className="parent">
-			<a href="https://www.omgubuntu.co.uk/2021/12/xiaomi-cyberdog-runs-ubuntu" target="_blank"
+			<a href="https://dev.to/crater90/5-github-repositories-for-learning-developers-4kn6" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Xiaomi’s CyberDog Robot Runs Ubuntu
+					5 GitHub Repositories for learning developers...
 					<br /><br />
-					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/12/xiaomi-cyberdog-face-768x440.jpg" loading="lazy" alt={alt_antiwarning}/>
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--r-vzCbDu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pbnt6je65qcewj68n48w.jpg" loading="lazy" alt={alt_antiwarning}/>
 				</div>
 			</a>
 
-			<a href="https://ubuntu.com/blog/secure-containers-supply-chain-intel-openvino-canonical" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Intel and Canonical to secure containers software supply chain
+					Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them
 					<br /><br />
-					<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_486,h_316/https://ubuntu.com/wp-content/uploads/ac49/ov_chart.png"
+					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/12/--br-eakfast-----l-unch---www.brunch.com--1-.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -42,21 +42,21 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://dev.to/daltonmenezes/aura-theme-v2-0-0-is-out-now-565h" target="_blank"
+			<a href="https://blog.angular.io/thank-you-angular-d90d70f2e9d8" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Aura Theme v2.0.0 is out now! 🥳 🎉
+					Thank you, Angular
 					<br /><br />
-					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dcq3duqU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbkjdro8kbqow4318lcq.png"
+					<img src="https://miro.medium.com/max/1400/0*8WsaA6tzj_CZWcc8"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/ferdi/" target="_blank" rel="noopener noreferrer">
+			<a href="https://dzone.com/articles/boost-your-efficiency-top-productivity-plugins-for-dev-teams" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Ferdi: A Free & Open-Source Alternative to Franz & Rambox
+					Boost Your Efficiency: Top 5 Productivity Plugins For Dev Teams
 					<br /><br />
-					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/10/ferdi-screenshot.png?w=800&ssl=1"
+					<img src="https://dz2cdn1.dzone.com/storage/temp/15374234-dev-test2.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>

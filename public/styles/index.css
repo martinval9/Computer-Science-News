@@ -32,7 +32,7 @@ h2 {
      object-fit: cover;
   opacity: 0.5;
   width: 100% !important;
-  height: 320px !important;
+  height: 400px !important;
 }
 
 .carousel-control-prev:hover {
@@ -120,6 +120,9 @@ a:hover {
 
 .bg-light {
   background: #000000 !important;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
 }
 
 .navbar > .container-fluid {

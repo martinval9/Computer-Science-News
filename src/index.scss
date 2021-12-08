@@ -36,7 +36,7 @@ h2 {
   object-fit: cover;
   opacity: 0.5;
   width: 100% !important;
-  height: 320px !important;
+  height: 400px !important;
 }
 
 .carousel-control-prev:hover {
@@ -117,11 +117,14 @@ a {
 }
 
 .bg-light {
-  background: $bg_base_color !important;
+  background: #090909 !important;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
 }
 
 .navbar>.container-fluid {
-  background: $bg_base_color;
+  background: #090909;
 }
 
 .navbar-light .navbar-brand {
