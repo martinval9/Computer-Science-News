@@ -1,128 +1,132 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Ubuntu&display=swap');
 
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Ubuntu', sans-serif;
-    background: #000;
-    color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+  background: #000;
+  color: #fff;
 }
 
 section {
-    text-align: center;
-    padding: 40px;
+  text-align: center;
+  padding: 40px;
 }
 
 h1 {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+  padding-top: 50px;
 }
 
 section img {
-    width: 7%;
-    min-width: 90px;
-    border-radius: 50%;
-    padding: 2px;
-    transition: 0.2s;
+  width: 7%;
+  min-width: 90px;
+  border-radius: 50%;
+  padding: 2px;
+  transition: 0.2s;
 }
 
 section img:hover {
-    opacity: 0.7;
-    transition: 0.2s;
-    padding: 9px;
+  opacity: 0.7;
+  transition: 0.2s;
+  padding: 9px;
 }
 
 #go {
-    border-radius: 0px;
+  border-radius: 0px;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 
 #nav-favicon {
-    width: 2.8%;
-    min-width: 37px;
-    max-width: 38px;
+  width: 2.8%;
+  min-width: 37px;
+  max-width: 38px;
 }
 
 .navbar-collapse {
-    text-align: center;
+  text-align: center;
 }
 
 .bg-light {
-    background: #000 !important;
+  background: #000 !important;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
 }
 
 .navbar>.container-fluid {
-    background: #000 !important;
+  background: #000 !important;
 }
 
 .navbar-light .navbar-brand {
-    color: #fff !important;
-    padding: 0px 5px;
+  color: #fff !important;
+  padding: 0px 5px;
 }
 
 .navbar-light .navbar-toggler-icon {
-    color: #fff;
-    display: contents;
+  color: #fff;
+  display: contents;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
-    padding: 11px 8px;
-    color: #fff !important;
+  padding: 11px 8px;
+  color: #fff !important;
 }
 
 .navbar-light .navbar-nav .nav-link.active:hover {
-    color: #00c7c0 !important;
-    background: #111;
-    border-radius: 3px;
-    transition: 0.1s !important;
+  color: #00c7c0 !important;
+  background: #111;
+  border-radius: 3px;
+  transition: 0.1s !important;
 }
 
 button {
-    color: #fff !important;
-    transition: 0.1s !important;
-    padding: 10px 13px;
+  color: #fff !important;
+  transition: 0.1s !important;
+  padding: 10px 13px;
 }
 
 button:hover {
-    background: #111;
-    color: #00c7c0 !important;
-    transition: 0.1s;
+  background: #111;
+  color: #00c7c0 !important;
+  transition: 0.1s;
 }
 
 .navbar-toggler {
-    padding: 10px;
+  padding: 10px;
 }
 
 .navbar-toggler:focus {
-    box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 ::-webkit-scrollbar {
-    width: 7px;
+  width: 7px;
 }
 
 ::-webkit-scrollbar-track {
-    background: #000;
+  background: #000;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #fff;
+  background: #fff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #007774;
+  background: #007774;
 }
 
 .nojs {
-    background: #fc2929;
-    padding: 12px;
-    text-align: center;
+  background: #fc2929;
+  padding: 12px;
+  text-align: center;
 }
