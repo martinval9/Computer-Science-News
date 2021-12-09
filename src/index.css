@@ -5,6 +5,7 @@
   margin: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -30,9 +31,9 @@ h2 {
   max-height: 490px;
   -o-object-fit: cover;
      object-fit: cover;
-  opacity: 0.5;
+  opacity: 0.7;
   width: 100% !important;
-  height: 400px !important;
+  height: 450px !important;
 }
 
 .carousel-control-prev:hover {
@@ -125,6 +126,22 @@ a:hover {
   z-index: 10;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .collapsing {
+    -webkit-transition-property: height, visibility;
+    transition-property: height, visibility;
+    -webkit-transition-duration: .35s;
+            transition-duration: .35s;
+  }
+}
+
+.carousel-item {
+  -webkit-transition: opacity .3s ease-out, -webkit-transform 1s ease;
+  transition: opacity .3s ease-out, -webkit-transform 1s ease;
+  transition: transform 1s ease, opacity .3s ease-out;
+  transition: transform 1s ease, opacity .3s ease-out, -webkit-transform 1s ease;
+}
+
 .navbar > .container-fluid {
   background: #090909;
 }
@@ -149,6 +166,8 @@ a:hover {
 
 .navbar-light .navbar-nav .nav-link.active {
   padding: 11px 8px;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
   color: #fff;
 }
 
@@ -198,6 +217,7 @@ button:hover {
   }
   .parent div {
     margin: 10px;
+    text-align: center;
   }
 }
 
@@ -275,14 +295,21 @@ footer {
   transition: 0.1s !important;
 }
 
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 1024px) {
   .parent {
-    display: initial !important;
+    -ms-grid-columns: (1fr)[2];
+        grid-template-columns: repeat(2, 1fr);
+    -ms-grid-rows: (1fr)[2];
+        grid-template-rows: repeat(2, 1fr);
     padding: 10px;
   }
   .parent div {
-    text-align: center;
-    margin: 10px;
+    font-size: 2vh;
+    height: initial;
+  }
+  .preview img {
+    max-height: 285px;
+    min-height: 195px;
   }
 }
 
@@ -302,7 +329,8 @@ footer {
   background: #007774;
 }
 
-.arrow, .arrow:before {
+.arrow,
+.arrow:before {
   position: absolute;
   left: 50%;
 }
