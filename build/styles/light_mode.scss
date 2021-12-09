@@ -43,6 +43,13 @@ h2 {
   height: 400px !important;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .collapsing {
+    transition-property: height, visibility;
+    transition-duration: .35s;
+  }
+}
+
 .carousel-control-prev:hover {
   background: none !important;
   opacity: 0.3;

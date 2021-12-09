@@ -35,6 +35,13 @@ a:hover {
   transition: 0.1s;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .collapsing {
+    transition-property: height, visibility;
+    transition-duration: .35s;
+  }
+}
+
 #nav-favicon {
   width: 2.8%;
   min-width: 37px;

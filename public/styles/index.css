@@ -119,14 +119,23 @@ a:hover {
 }
 
 .bg-light {
-  background: #000000 !important;
+  background: #090909 !important;
   position: fixed;
   width: 100%;
   z-index: 10;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .collapsing {
+    -webkit-transition-property: height, visibility;
+    transition-property: height, visibility;
+    -webkit-transition-duration: .35s;
+            transition-duration: .35s;
+  }
+}
+
 .navbar > .container-fluid {
-  background: #000000;
+  background: #090909;
 }
 
 .navbar-light .navbar-brand {
@@ -214,9 +223,9 @@ button:hover {
       grid-template-columns: repeat(4, 1fr);
   -ms-grid-rows: (1fr)[4];
       grid-template-rows: repeat(4, 1fr);
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
-  padding: 15px;
+  grid-column-gap: 8px;
+  grid-row-gap: 8px;
+  padding: 13px;
 }
 
 .parent div {
@@ -237,6 +246,10 @@ button:hover {
   cursor: default;
 }
 
+.carousel-item {
+  transition: transform 1s ease, opacity .3s ease-out
+}
+
 .preview {
   -ms-grid-row: 1;
   -ms-grid-row-span: 1;
@@ -247,8 +260,8 @@ button:hover {
 
 .preview img {
   width: 100%;
-  max-height: 175px;
-  min-height: 175px;
+  max-height: 185px;
+  min-height: 185px;
   border-radius: 3px;
   -o-object-fit: cover;
      object-fit: cover;

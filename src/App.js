@@ -17,14 +17,14 @@ const App = () => {
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="img/header2.jpg" className="d-block w-100" alt="Abstract Wallpaper" title="Photo by Bruno Thethe from Pexels" />
+                    <img src="img/header2.jpg" className="d-block w-100" alt="Abstract Wallpaper" title="Photo by Markus Spiske from Pexels" />
                     <div className="carousel-caption d-md-block">
                         <h1>Simple to use</h1>
                         <p>Small and simple to use</p>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="img/header3.jpg" className="d-block w-100" alt="Aurora Background" title="Photo by stein egil liland from Pexels" />
+                    <img src="img/header3.jpg" className="d-block w-100" alt="Aurora Background" title="Photo by Tobias Bjørkli from Pexels" />
                     <div className="carousel-caption d-md-block">
                         <h1>Sources</h1>
                         <p><a href="https://github.com/martinval9/Computer-Science-News/" target="_blank"

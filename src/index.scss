@@ -10,6 +10,7 @@ $transition_time: 0.1s;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -34,9 +35,9 @@ h2 {
 .w-100 {
   max-height: 490px;
   object-fit: cover;
-  opacity: 0.5;
+  opacity: 0.7;
   width: 100% !important;
-  height: 400px !important;
+  height: 450px !important;
 }
 
 .carousel-control-prev:hover {
@@ -123,6 +124,17 @@ a {
   z-index: 10;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .collapsing {
+    transition-property: height, visibility;
+    transition-duration: .35s;
+  }
+}
+
+.carousel-item {
+  transition: transform 1s ease, opacity .3s ease-out
+}
+
 .navbar>.container-fluid {
   background: #090909;
 }
@@ -147,6 +159,7 @@ a {
 
 .navbar-light .navbar-nav .nav-link.active {
   padding: 11px 8px;
+  transform-style: preserve-3d;
   color: #fff;
 
   &:hover {
@@ -193,6 +206,7 @@ button {
 
     div {
       margin: 10px;
+      text-align: center;
     }
   }
 }
@@ -259,24 +273,30 @@ footer {
   }
 }
 
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 1024px) {
   .parent {
-    display: initial !important;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
     padding: 10px;
+  }
 
-    div {
-      text-align: center;
-      margin: 10px;
-    }
+  .parent div {
+    font-size: 2vh;
+    height: initial;
+  }
+
+  .preview img {
+    max-height: 285px;
+    min-height: 195px;
   }
 }
 
 ::-webkit-scrollbar {
-    width: 7px;
+  width: 7px;
 }
 
 ::-webkit-scrollbar-track {
-    background: $bg_base_color;
+  background: $bg_base_color;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -287,7 +307,8 @@ footer {
   }
 }
 
-.arrow, .arrow:before {
+.arrow,
+.arrow:before {
   position: absolute;
   left: 50%;
 }
@@ -342,8 +363,8 @@ footer {
   border-radius: 50%;
 
   &:hover {
-  background: #004d4a;
-  transition: 0.2s;
+    background: #004d4a;
+    transition: 0.2s;
   }
 }
 
