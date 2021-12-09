@@ -48,6 +48,13 @@ h2 {
   }
 }
 
+.carousel-item {
+  -webkit-transition: opacity .3s ease-out, -webkit-transform 1s ease;
+  transition: opacity .3s ease-out, -webkit-transform 1s ease;
+  transition: transform 1s ease, opacity .3s ease-out;
+  transition: transform 1s ease, opacity .3s ease-out, -webkit-transform 1s ease;
+}
+
 .carousel-control-prev:hover {
   background: none !important;
   opacity: 0.3;
