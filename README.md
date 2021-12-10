@@ -13,7 +13,7 @@
   </span>
 </p>
 
-![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation.jpg)
+![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation.png)
 
 ![Preview Image](https://github.com/martinval9/Computer-Science-News/blob/main/ScreenShots/presentation2.jpg)
 
