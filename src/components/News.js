@@ -5,39 +5,39 @@ let alt_antiwarning = undefined
 const News = () => {
 	return (
 		<><div className="parent">
-			<a href="https://dev.to/crater90/5-github-repositories-for-learning-developers-4kn6" target="_blank"
+			<a href="https://www.telerik.com/blogs/figma-react-reusable-components" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					5 GitHub Repositories for learning developers...
+					From Figma to React—Reusable Components
 					<br /><br />
-					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--r-vzCbDu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pbnt6je65qcewj68n48w.jpg" loading="lazy" alt={alt_antiwarning}/>
+					<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2021/2021-12/figma-cover_banner-1200px-x-303px.png?sfvrsn=8fea1135_2" loading="lazy" alt={alt_antiwarning}/>
 				</div>
 			</a>
 
-			<a href="https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/" target="_blank" rel="noopener noreferrer">
+			<a href="https://blog.jameslieu.co.uk/why-you-should-keep-a-programming-journal" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them
+					Why You Should Keep a Programming Journal
 					<br /><br />
-					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/12/--br-eakfast-----l-unch---www.brunch.com--1-.png"
+					<img src="https://blog.jameslieu.co.uk/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FfVUl6kzIvLg%2Fupload%2Fv1638913945492%2FQhNCjb_lb.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/"
+			<a href="https://jamesqquick.hashnode.dev/announcing-advent-of-javascript-a-free-series-of-javascript-challenges"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Welcome to Fleet!
+					Announcing Advent of JavaScript - A FREE Series of JavaScript Challenges
 					<br /><br />
-					<img src="https://blog.jetbrains.com/wp-content/uploads/2021/11/Simple-editor.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://jamesqquick.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1639000902195%2FlSKjygnj3.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://cult.honeypot.io/reads/highest-paying-programming-languages/" target="_blank"
+			<a href="https://github.blog/2021-12-08-improving-github-code-search/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Top 7 Highest Paid Programming Languages 2021
+					Improving GitHub code search
 					<br /><br />
-					<img src="https://images.ctfassets.net/cjwb7umaxoxv/CsGR8nXS2aH06inBFk1Ob/7e16286c50e8d1e6b160688d22c378f2/MOSHED-2021-11-29-19-19-29__1_.jpg?w=600&fl=progressive&q=85"
+					<img src="https://github.blog/wp-content/uploads/2021/12/GitHub-code-search_banner.png?w=768"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
