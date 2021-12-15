@@ -5,49 +5,49 @@ let alt_antiwarning = undefined
 const News = () => {
 	return (
 		<><div className="parent">
-			<a href="https://www.telerik.com/blogs/figma-react-reusable-components" target="_blank"
+			<a href="https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					From Figma to React—Reusable Components
+					Frontend Interview Cheatsheet That Helped Me Get Offers From Amazon & LinkedIn
 					<br /><br />
-					<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2021/2021-12/figma-cover_banner-1200px-x-303px.png?sfvrsn=8fea1135_2" loading="lazy" alt={alt_antiwarning}/>
+					<img src="https://miro.medium.com/max/1400/1*JtxlGQj6I6myX-uihhHrEg.png" loading="lazy" alt={alt_antiwarning}/>
 				</div>
 			</a>
 
-			<a href="https://blog.jameslieu.co.uk/why-you-should-keep-a-programming-journal" target="_blank" rel="noopener noreferrer">
+			<a href="https://blog.jetbrains.com/education/2021/12/12/learn-in-1-hour-design-patterns/" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Why You Should Keep a Programming Journal
+					Learn in 1 Hour: Design Patterns
 					<br /><br />
-					<img src="https://blog.jameslieu.co.uk/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FfVUl6kzIvLg%2Fupload%2Fv1638913945492%2FQhNCjb_lb.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
+					<img src="https://blog.jetbrains.com/wp-content/uploads/2021/12/DSGN-12224_HourOfCode_DesignPattern_Blog_Featured_image_1280x600-copy-7-2800x1313.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://jamesqquick.hashnode.dev/announcing-advent-of-javascript-a-free-series-of-javascript-challenges"
+			<a href="https://tailwindcss.com/blog/tailwindcss-v3"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Announcing Advent of JavaScript - A FREE Series of JavaScript Challenges
+					Tailwind CSS v3.0
 					<br /><br />
-					<img src="https://jamesqquick.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1639000902195%2FlSKjygnj3.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://i.ytimg.com/vi_webp/TmWIrBPE6Bc/maxresdefault.webp" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://github.blog/2021-12-08-improving-github-code-search/" target="_blank"
+			<a href="https://hackernoon.com/vs-code-extensions-with-a-possible-bright-2022" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Improving GitHub code search
+					VS Code Extensions with a Bright 2022
 					<br /><br />
-					<img src="https://github.blog/wp-content/uploads/2021/12/GitHub-code-search_banner.png?w=768"
+					<img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FEpZkVLCBUSef3LhOGB8yY4myalo2-bt037q7.jpeg&w=750&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://blog.angular.io/thank-you-angular-d90d70f2e9d8" target="_blank"
+			<a href="https://www.producthunt.com/posts/github-wrapped-4" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Thank you, Angular
+					GitHub Wrapped - Your year in code
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/0*8WsaA6tzj_CZWcc8"
+					<img src="https://ph-files.imgix.net/131511bf-fac0-4b94-a824-112dcec94a7d.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=554&h=380&fit=max&dpr=1"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -70,12 +70,12 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://itnext.io/remaking-wordpress-in-js-stack-hello-to-a-new-cms-for-next-js-websites-63096bc5f98b" target="_blank"
+			<a href="https://devdojo.com/abhiraj/15-awesome-css-animation-libraries-you-need-to-know" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Remaking WordPress in JS stack. Hello to a new CMS for Next.js websites.
+					15 awesome CSS animation libraries you need to know.
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/1*YD27_slzjBjcCuyifHciMQ.jpeg"
+					<img src="https://cdn.devdojo.com/posts/images/December2021/15-awesome-css-animation-libraries-you-need-to-know.jpg?auto=format&q=70&w=1280"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
