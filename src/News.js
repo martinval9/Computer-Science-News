@@ -5,49 +5,49 @@ let alt_antiwarning = undefined
 const News = () => {
 	return (
 		<><div className="parent">
-			<a href="https://dev.to/crater90/5-github-repositories-for-learning-developers-4kn6" target="_blank"
+			<a href="https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					5 GitHub Repositories for learning developers...
+					Top Skills All New Frontend Developers Should Have
 					<br /><br />
-					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--r-vzCbDu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pbnt6je65qcewj68n48w.jpg" loading="lazy" alt={alt_antiwarning}/>
+					<img src="https://www.freecodecamp.org/news/content/images/size/w600/2021/12/Valuavel.png" loading="lazy" alt={alt_antiwarning}/>
 				</div>
 			</a>
 
-			<a href="https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/" target="_blank" rel="noopener noreferrer">
+			<a href="https://enlear.academy/28-ebook-and-course-free-for-web-development-4f01a4d1f4a6" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them
+					28 Free Ebooks and Courses for Web Developers
 					<br /><br />
-					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/12/--br-eakfast-----l-unch---www.brunch.com--1-.png"
+					<img src="https://miro.medium.com/max/1400/1*CGMTcXhjMOiOHlGz-TXcFg.jpeg"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/"
+			<a href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Welcome to Fleet!
+					How to Use the .github Repository
 					<br /><br />
-					<img src="https://blog.jetbrains.com/wp-content/uploads/2021/11/Simple-editor.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://www.freecodecamp.org/news/content/images/size/w600/2021/12/Thumbnail.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://cult.honeypot.io/reads/highest-paying-programming-languages/" target="_blank"
+			<a href="https://hackernoon.com/vs-code-extensions-with-a-possible-bright-2022" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Top 7 Highest Paid Programming Languages 2021
+					VS Code Extensions with a Bright 2022
 					<br /><br />
-					<img src="https://images.ctfassets.net/cjwb7umaxoxv/CsGR8nXS2aH06inBFk1Ob/7e16286c50e8d1e6b160688d22c378f2/MOSHED-2021-11-29-19-19-29__1_.jpg?w=600&fl=progressive&q=85"
+					<img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FEpZkVLCBUSef3LhOGB8yY4myalo2-bt037q7.jpeg&w=750&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://blog.angular.io/thank-you-angular-d90d70f2e9d8" target="_blank"
+			<a href="https://www.producthunt.com/posts/github-wrapped-4" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Thank you, Angular
+					GitHub Wrapped - Your year in code
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/0*8WsaA6tzj_CZWcc8"
+					<img src="https://ph-files.imgix.net/131511bf-fac0-4b94-a824-112dcec94a7d.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=554&h=380&fit=max&dpr=1"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -61,41 +61,41 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://levelup.gitconnected.com/top-30-git-commands-you-should-know-to-master-git-cli-f04e041779bc" target="_blank" rel="noopener noreferrer">
+			<a href="https://betterprogramming.pub/15-useful-vscode-shortcuts-to-boost-your-productivity-415de3cb1910" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Top 30 Git Commands You Should Know To Master Git CLI
+					15 Useful VS Code Shortcuts to Boost Your Productivity
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/1*Z5zbBRQz6SaX0LA5D7hAJQ.png"
+					<img src="https://miro.medium.com/max/1400/0*BRrId_0hLDhQewNm"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://supabase.com/blog/2021/11/30/supabase-studio" target="_blank"
+			<a href="https://devdojo.com/abhiraj/15-awesome-css-animation-libraries-you-need-to-know" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Supabase Studio
+					15 awesome CSS animation libraries you need to know.
 					<br /><br />
-					<img src="https://supabase.com/images/blog/launch-week-three/studio/open-source-studio-thumb.png"
+					<img src="https://cdn.devdojo.com/posts/images/December2021/15-awesome-css-animation-libraries-you-need-to-know.jpg?auto=format&q=70&w=1280"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://thehackernews.com/2021/11/14-new-security-flaws-found-in-busybox.html" target="_blank"
+			<a href="https://levelup.gitconnected.com/im-a-lazy-developer-but-be-efficient-600437ecca2e" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					14 New Security Flaws Found in BusyBox Linux Utility for Embedded Devices
+					I’m a lazy developer but efficient😘
 					<br /><br />
-					<img src="https://thehackernews.com/new-images/img/a/AVvXsEgT7hR-OjNEnEtm9f_Z7RqXviIQd_DwXCI9Emyy0X9qpPUtA_XNynFeXTXOrcnDl1Je8IFuqXZIMPa8UTu5KN7YiOnyjg-fIdFiht1mEvzJNu9jrflb2kZ59m_dXMf3olE6q2lfOywmVNloJLanTYtM2vn2M_w3aeZiJiMssk-Xgq05HJHSjWvx-UsM=s728-e1000"
+					<img src="https://miro.medium.com/max/700/0*MbATVo1dAQuz0cNk"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://fedoramagazine.org/how-to-design-a-business-card-with-inkscape/" target="_blank"
+			<a href="https://dev.to/muthuannamalai12/10-google-chrome-extensions-you-should-use-as-a-developer-4bo" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to design a business card with Inkscape
+					10 Google Chrome Extensions you should use as a developer
 					<br /><br />
-					<img src="https://fedoramagazine.org/wp-content/uploads/2021/11/inkscape-business-card-816x345.jpg"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zHdNyUGx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vtdxitnbzldhix3wcch.jpg"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -120,19 +120,19 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://www.freecodecamp.org/news/what-is-json-a-json-file-example/" target="_blank" rel="noopener noreferrer">
+			<a href="https://dev.to/thatanjan/13-reasons-why-you-should-use-nextjs-2d40" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					JSON for Beginners – JavaScript Object Notation Explained in Plain English
+					13 reasons why you should use Nextjs
 					<br /><br />
-					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/freeCodeCamp-Cover-1.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0pmRbIcs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hjvap8num2ngjp2xdpy.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://javascript.plainenglish.io/what-is-duck-typing-in-typescript-c537d2ff9b61" target="_blank" rel="noopener noreferrer">
+			<a href="https://devdojo.com/zoltan/tailwind-components" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Introduction to Duck Typing in TypeScript
+					Flowbite - Tailwind CSS components
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/1*tdukZdneKqM-5jPgapYYRQ.png"
+					<img src="https://cdn.devdojo.com/posts/images/December2021/tailwind-components1.jpg?auto=format&q=70&w=1280"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -156,29 +156,29 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://dev.to/andyrewlee/why-i-no-longer-use-graphql-for-new-projects-1oig" target="_blank"
+			<a href="https://blog.damiandemasi.com/using-notion-to-organise-programming-topics" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Why I no longer use GraphQL for new projects
+					Using Notion to organise programming topics
 					<br /><br />
-					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--U98iprts--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xzhupmjflx7p3av4mdn8.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://blog.damiandemasi.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638778530604%2FAIcc8gg9p.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itnext.io/interfaces-vs-types-in-typescript-cf5758211910" target="_blank" rel="noopener noreferrer">
+			<a href="https://hackernoon.com/success-will-be-found-because-developers-are-lazy" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Interfaces vs Types in TypeScript
+					"Success will be found because developers are lazy"
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/1*zAxmxaUqrpy5Jzj2zr0OeA.jpeg" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2F9wN6lsqCvFd7EY72tCF9YlWzrbD2-f1hta34at.gif&w=1920&q=75" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://blog.logrocket.com/svelte-actions-introduction/" target="_blank"
+			<a href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Introduction to Svelte Actions
+					How to Write Good Commit Messages with Commitlint
 					<br /><br />
-					<img src="https://blog.logrocket.com/wp-content/uploads/2021/11/svelte-actions-introduction.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/Thumbnail.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -220,50 +220,50 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://opensource.com/article/21/10/memory-stats-linux-smem" target="_blank"
+			<a href="https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Get memory use statistics with this Linux command-line tool
+					17 Killer Websites for Web Developers
 					<br /><br />
-					<img src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/programming_code_keyboard_orange_hands.png?itok=G6tJ_64Y"
+					<img src="https://miro.medium.com/max/2000/1*ddi59B3Vhs2ov6EBFI3qyg.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://opensource.com/article/21/10/linux-zombie-process" target="_blank"
+			<a href="https://devdojo.com/bobbyiliev/free-introduction-to-docker-ebook" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to kill a zombie process on Linux
+					💡 Free Introduction to Docker eBook
 					<br /><br />
-					<img src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/ganapathy-kumar-unsplash.jpg?itok=5-DT99NA"
+					<img src="https://cdn.devdojo.com/posts/images/October2021/free-introduction-to-docker-ebook3.jpg?auto=format&q=70&w=1280"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/check-mbr-or-gpt/" target="_blank" rel="noopener noreferrer">
+			<a href="https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to Know if Your System Uses MBR or GPT Partitioning [on Windows and Linux]
+					Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion
 					<br /><br />
-					<img src="https://i0.wp.com/itsfoss.com/wp-content/uploads/2021/07/check-if-mbr-or-gpt-in-Linux-gui.png?resize=800%2C548&ssl=1"
+					<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637499951574/muR0hv-Lf.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://ubuntu.com/blog/vote-in-the-ubuntu-21-10-wallpaper-competition" target="_blank"
+			<a href="https://abhirajb.hashnode.dev/web3-explain-like-im-five" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Vote in the Ubuntu 21.10 wallpaper competition
+					Web3: Explain like I'm five
 					<br /><br />
-					<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/f960/wallpaper-contest-tile.jpg"
+					<img src="https://abhirajb.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638882597303%2Fve1qhNOUm.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/latest-ubuntu-version/" target="_blank" rel="noopener noreferrer">
+			<a href="https://supabase.com/blog/2021/12/03/launch-week-three-friday-five-more-things" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					What is the Latest Ubuntu Version? Which one to use?
+					Open source GraphQL PostgreSQL Extension
 					<br /><br />
-					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2020/01/ubuntu_yaru_light_dark_theme.jpg?w=800&ssl=1"
+					<img src="https://supabase.com/images/blog/launch-week-three/five-more-things/five-more-things-thumb.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -278,19 +278,19 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://laravel-news.com/announcing-the-php-foundation" target="_blank" rel="noopener noreferrer">
+			<a href="https://dzone.com/articles/22-software-development-trends-for-2022-1" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Announcing the PHP Foundation
+					22 Software Development Trends for 2022
 					<br /><br />
-					<img src="https://laravelnews.imgix.net/images/phplogo.jpg?ixlib=php-3.3.1" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://dz2cdn1.dzone.com/storage/temp/15428582-blog-trends-2022-3.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://pythonawesome.com/django-and-react-notes-app/" target="_blank" rel="noopener noreferrer">
+			<a href="https://levelup.gitconnected.com/top-10-php-8-1-features-you-should-start-using-now-7161b91275fd" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Django And React Notes App
+					Top 10 PHP 8.1 Features You Should Start Using Now
 					<br /><br />
-					<img src="https://camo.githubusercontent.com/4decb14a3a09c5f45039a6ecf88037a841c7e12baf612251976831daf7613462/687474703a2f2f69332e7974696d672e636f6d2f76692f74594b52415849696f32382f6d617872657364656661756c742e6a7067"
+					<img src="https://miro.medium.com/max/1400/1*Ky2c6CrwZl1Ga3AsEwqZvg.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -305,115 +305,115 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/onedriver/" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.30secondsofcode.org/articles/s/javascript-pass-by-reference-or-pass-by-value" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Mount Microsoft OneDrive in Linux With OneDriver GUI Tool
+					Is JavaScript pass-by-value or pass-by-reference?
 					<br /><br />
-					<img src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2021/08/one-drive-linux.png?w=800&ssl=1"
+					<img src="https://www.30secondsofcode.org/assets/blog_images/baloons-field.webp"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/stop-program-linux-terminal/" target="_blank" rel="noopener noreferrer">
+			<a href="https://blog.tiia.rocks/github-copilot-is-here-to-stay" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to Stop a Program in Linux Terminal
+					GitHub Copilot is here to stay
 					<br /><br />
-					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/09/stop-a-program-linux-terminal.png?resize=800%2C373&ssl=1"
+					<img src="https://blog.tiia.rocks/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638892097010%2FgRkRvLXQh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://itsfoss.com/element/" target="_blank" rel="noopener noreferrer">
+			<a href="https://dev.to/nitzanhen/agrippa-13-is-out-4g0n" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Element: A Cross-Platform Decentralized Open-Source Messaging App
+					Agrippa 1.3 is out 🎉🎉🎉
 					<br /><br />
-					<img src="https://i0.wp.com/itsfoss.com/wp-content/uploads/2021/06/element-io.png?w=800&ssl=1"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Mj_EjoX4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqz8mx7begvrcztbldux.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://devdojo.com/ruanbekker/redirect-systemd-unit-logs-to-syslog" target="_blank"
+			<a href="https://dev.to/0shuvo0/box-shadow-vs-drop-shadow-in-css-1cno" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Redirect Systemd Unit Logs to Syslog
+					Box shadow vs. drop shadow in CSS
 					<br /><br />
-					<img src="https://cdn.devdojo.com/posts/images/October2021/redirect-systemd-unit-logs-to-syslog1.jpg?auto=format&q=70&w=1280"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0PB5gUi0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vv20e653rogjudls546p.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://www.omgubuntu.co.uk/2021/10/firefox-93-now-available-to-download" target="_blank"
+			<a href="https://dev.to/jpomykala/number-formatting-in-javascript-1mc" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Firefox 93 Release-outd with AVIF Support, Insecure Download Protection
+					Number formatting in JavaScript
 					<br /><br />
-					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/10/firefox-93.jpg"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YxUnXwtj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://simplelocalize.io/blog/number-formatting-in-javascript.jpg"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://dev.to/barbara/unix-commands-cheatsheet-goo" target="_blank" rel="noopener noreferrer">
+			<a href="https://dev.to/alexeagleson/learnings-from-react-conf-2021-17lg" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					UNIX commands cheatsheet
+					Learnings from React Conf 2021
 					<br /><br />
-					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nZsg9ZEE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oujuvj8caot7c79i3v65.jpg"
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hgO1GZE6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7pzwieb30ejnhd9d94x.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/" target="_blank"
+			<a href="https://dev.to/muthuannamalai12/7-awesome-ways-to-screenshot-your-code-4h15" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Development: Connect git to GitLab for Small Projects
+					7 Awesome Ways to Screenshot Your Code
 					<br /><br />
-					<img src="https://cdn.thenewstack.io/media/2021/11/4d091720-gitlab.png" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pD0E15X0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m4hhpefnyf83o6qsk194.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://www.omgubuntu.co.uk/2021/10/softmaker-freeoffice-2021-release-outd" target="_blank"
+			<a href="https://tamalweb.com/compress-images-reactjs" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					SoftMaker FreeOffice 2021 Now Available to Download
+					Best Practices on How to Compress Images For Reactjs
 					<br /><br />
-					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/10/softmaker-freeoffice-icons.jpg"
+					<img src="https://tamalweb.com/wp-content/uploads/2021/12/Facebook-post-1-700x368.png"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://www.omgubuntu.co.uk/2021/10/microsoft-office-2021-includes-better-support-for-opendocument-files"
+			<a href="https://itsfoss.com/basic-terminal-tips-ubuntu/"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Microsoft Office 2021 Includes Better Support for LibreOffice Files
+					19 Absolute Simple Things About Linux Terminal Every Ubuntu User Should Know
 					<br /><br />
-					<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/10/microsoft-office-2021.jpg"
+					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/12/ubuntu-terminal-basic-tips.png?w=800&ssl=1"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://api.daily.dev/r/NMQralSXB" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.sitepoint.com/micro-frontend-architecture-benefits/" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					How to Install Visual Studio Code Extensions
+					5 Reasons You Should Adopt a Micro Frontend Architecture
 					<br /><br />
-					<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2021/10/01-all-extensions-1.webp?resize=800%2C450&ssl=1"
+					<img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638919155micro-frontends.jpg"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://opensource.com/article/21/9/linux-find-command" target="_blank" rel="noopener noreferrer">
+			<a href="https://yuricodesbot.hashnode.dev/4-easy-ways-to-center-a-div" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Find files and directories on Linux with the find command
+					4 Easy ways to center a .div.
 					<br /><br />
-					<img src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/find-file-linux-code_magnifying_glass_zero.png?itok=E2HoPDg0"
+					<img src="https://yuricodesbot.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638604614418%2F3h9dzituL.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://www.hashicorp.com/blog/announcing-hashicorp-boundary-0-6" target="_blank"
+			<a href="https://medium.com/flutter/announcing-flutter-2-8-31d2cb7e19f5" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Announcing HashiCorp Boundary 0.6
+					Announcing Flutter 2.8
 					<br /><br />
-					<img src="https://www.datocms-assets.com/2885/1620083536-blog-library-product-boundary-dark-graphics.jpg"
+					<img src="https://miro.medium.com/max/2000/0*_hVZ_qoWPxzQK3ws"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
