@@ -5,30 +5,30 @@ let alt_antiwarning = undefined
 const News = () => {
 	return (
 		<><div className="parent">
-			<a href="https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7" target="_blank"
+			<a href="https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Frontend Interview Cheatsheet That Helped Me Get Offers From Amazon & LinkedIn
+					Top Skills All New Frontend Developers Should Have
 					<br /><br />
-					<img src="https://miro.medium.com/max/1400/1*JtxlGQj6I6myX-uihhHrEg.png" loading="lazy" alt={alt_antiwarning}/>
+					<img src="https://www.freecodecamp.org/news/content/images/size/w600/2021/12/Valuavel.png" loading="lazy" alt={alt_antiwarning}/>
 				</div>
 			</a>
 
-			<a href="https://blog.jetbrains.com/education/2021/12/12/learn-in-1-hour-design-patterns/" target="_blank" rel="noopener noreferrer">
+			<a href="https://enlear.academy/28-ebook-and-course-free-for-web-development-4f01a4d1f4a6" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Learn in 1 Hour: Design Patterns
+					28 Free Ebooks and Courses for Web Developers
 					<br /><br />
-					<img src="https://blog.jetbrains.com/wp-content/uploads/2021/12/DSGN-12224_HourOfCode_DesignPattern_Blog_Featured_image_1280x600-copy-7-2800x1313.png"
+					<img src="https://miro.medium.com/max/1400/1*CGMTcXhjMOiOHlGz-TXcFg.jpeg"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
-			<a href="https://tailwindcss.com/blog/tailwindcss-v3"
+			<a href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"
 				target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Tailwind CSS v3.0
+					How to Use the .github Repository
 					<br /><br />
-					<img src="https://i.ytimg.com/vi_webp/TmWIrBPE6Bc/maxresdefault.webp" loading="lazy" alt={alt_antiwarning} />
+					<img src="https://www.freecodecamp.org/news/content/images/size/w600/2021/12/Thumbnail.png" loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
 
@@ -80,12 +80,12 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://thecodingcompany.hashnode.dev/the-ultimate-linux-cheatsheet" target="_blank"
+			<a href="https://levelup.gitconnected.com/im-a-lazy-developer-but-be-efficient-600437ecca2e" target="_blank"
 				rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					The Ultimate Linux Cheatsheet
+					I’m a lazy developer but efficient😘
 					<br /><br />
-					<img src="https://thecodingcompany.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638958084725%2FGsMGtqLxz.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
+					<img src="https://miro.medium.com/max/700/0*MbATVo1dAQuz0cNk"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
@@ -128,11 +128,11 @@ const News = () => {
 				</div>
 			</a>
 
-			<a href="https://tsh.io/blog/federated-graphql-tutorial/" target="_blank" rel="noopener noreferrer">
+			<a href="https://devdojo.com/zoltan/tailwind-components" target="_blank" rel="noopener noreferrer">
 				<div className="preview" data-sr="wait 0.1s, ease-out 100px">
-					Gentle introduction to microservices, federated GraphQL and Apollo Federation
+					Flowbite - Tailwind CSS components
 					<br /><br />
-					<img src="https://tsh.io/wp-content/uploads/fly-images/22772/federated-graphql-1800x1180.png"
+					<img src="https://cdn.devdojo.com/posts/images/December2021/tailwind-components1.jpg?auto=format&q=70&w=1280"
 						loading="lazy" alt={alt_antiwarning} />
 				</div>
 			</a>
