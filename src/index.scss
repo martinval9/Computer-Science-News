@@ -122,6 +122,8 @@ a {
   position: fixed;
   width: 100%;
   z-index: 10;
+  padding: 7px;
+  transition: 0.2s;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -251,6 +253,7 @@ button {
     min-height: 185px;
     border-radius: 3px;
     object-fit: cover;
+    margin-top: 15px;
   }
 
   &:hover {

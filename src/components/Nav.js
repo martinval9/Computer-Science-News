@@ -1,8 +1,8 @@
 let home = 'https://computer-science-nw.netlify.app/index.html'
 let about = 'https://computer-science-nw.netlify.app/about/about.html'
-let my_github = 'https://github.com/martinval9/'
-let more_news = 'https://computer-science-nw.netlify.app/more_news/more_news.html'
-let no_target = '#'
+let myGithub = 'https://github.com/martinval9/'
+let moreNews = 'https://computer-science-nw.netlify.app/more_news/more_news.html'
+let noTarget = '#'
 
 const Nav = () => {
 	return (
@@ -19,27 +19,27 @@ const Nav = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 						<li className="nav-item">
-							<a className="nav-link active" aria-current="page" href={home}>Home</a>
+							<a className="nav-link active" aria-current="page" href={ home }>Home</a>
 						</li>
 
 						<li className="nav-item">
-							<a className="nav-link active" href={about}>About</a>
+							<a className="nav-link active" href={ about }>About</a>
 						</li>
 
 						<li className="nav-item">
-							<a className="nav-link active" href={my_github}>My GitHub</a>
+							<a className="nav-link active" href={ myGithub }>My GitHub</a>
 						</li>
 
 						<li className="nav-item">
-							<a className="nav-link active" href={more_news}>Do you want more news?</a>
+							<a className="nav-link active" href={ moreNews }>Do you want more news?</a>
 						</li>
 
 						<li className="nav-item">
-							<a className="nav-link active" href={no_target} id="light_theme" title="Toogle Light Mode"><i className="fas fa-sun"></i></a>
+							<a className="nav-link active" href={ noTarget } id="light_theme" title="Toogle Light Mode"><i className="fas fa-sun"></i></a>
 						</li>
 
 						<li className="nav-item">
-							<a className="nav-link active" href={no_target} id="dark_theme" title="Toogle Dark Mode"><i className="fas fa-moon"></i></a>
+							<a className="nav-link active" href={ noTarget } id="dark_theme" title="Toogle Dark Mode"><i className="fas fa-moon"></i></a>
 						</li>
 					</ul>
         </div>

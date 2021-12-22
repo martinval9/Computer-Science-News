@@ -9,8 +9,18 @@ document.addEventListener('DOMContentLoaded', () => {
 		$(window).scroll(() => {
 			if ($(this).scrollTop() > 0) {
 				$('.go-up-btn').slideDown(300);
+				$('.bg-light').css({
+					'padding': '12px',
+					'transition': '0.2s',
+					'opacity': 0.95
+				})
 			} else {
 				$('.go-up-btn').slideUp(300);
+				$('.bg-light').css({
+					'padding': '7px',
+					'transition': '0.2s',
+					'opacity': 1
+				})
 			}
 		});
 
