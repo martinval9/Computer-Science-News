@@ -124,6 +124,9 @@ a:hover {
   position: fixed;
   width: 100%;
   z-index: 10;
+  padding: 7px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -272,6 +275,7 @@ button:hover {
   border-radius: 3px;
   -o-object-fit: cover;
      object-fit: cover;
+  margin-top: 15px;
 }
 
 .preview:hover {
