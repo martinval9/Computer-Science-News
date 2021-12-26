@@ -7,29 +7,29 @@ const News = () => {
 	return (
 		<>
 			<div className="parent">
-				<a href="https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/" target="_blank"
+				<a href="https://javascript.plainenglish.io/26-github-open-sources-for-learning-programming-4d0021d9f336" target="_blank"
 					rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Top Skills All New Frontend Developers Should Have
-
-						<img src="https://www.freecodecamp.org/news/content/images/size/w600/2021/12/Valuavel.png" loading="lazy" alt={ altNoWarning } />
+						26 GitHub Open Sources For Learning Programming
+						<img src="https://miro.medium.com/max/700/0*S9pFid0cM4eO9rBA.jpeg" loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
-				<a href="https://enlear.academy/28-ebook-and-course-free-for-web-development-4f01a4d1f4a6" target="_blank" rel="noopener noreferrer">
+				<a href="https://www.omgubuntu.co.uk/2021/12/best-linux-distro-releases-in-2021" target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						28 Free Ebooks and Courses for Web Developers
+						My Top 5 Linux Distro Releases of 2021
 
-						<img src="https://miro.medium.com/max/1400/1*CGMTcXhjMOiOHlGz-TXcFg.jpeg"
+						<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/12/best-distro-final-768x440.jpg"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
-				<a href="https://pereliksoft.com/checklist-for-an-efficient-code-review/"
+				<a href="https://blog.openreplay.com/5-projects-you-need-to-build-to-get-started-with-reactjs"
 					target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Checklist for an efficient code review
-						<img src="https://pereliksoft.com/wp-content/uploads/2021/09/efficient_code_review_checklist_post.jpg" loading="lazy" alt={ altNoWarning } />
+						5 Projects You Need to Build to Get Started with Reactjs
+
+						<img src="https://blog.openreplay.com/static/ee69c61954a334cf2e4474c17ba180ce/99fbb/hero.webp" loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
@@ -231,50 +231,50 @@ const News = () => {
 					</div>
 				</a>
 
-				<a href="https://devdojo.com/bobbyiliev/free-introduction-to-docker-ebook" target="_blank"
+				<a href="https://blog.openreplay.com/top-5-vs-code-extensions-for-vue-developers-for-2022" target="_blank"
 					rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						💡 Free Introduction to Docker eBook
+						Top 5 VS Code extensions for Vue developers for 2023
 
-						<img src="https://cdn.devdojo.com/posts/images/October2021/free-introduction-to-docker-ebook3.jpg?auto=format&q=70&w=1280"
+						<img src="https://blog.openreplay.com/static/3b31aa0b0e0e5f0735ecfccb06b8bfff/99fbb/hero.webp"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
-				<a href="https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion" target="_blank" rel="noopener noreferrer">
+				<a href="https://javascript.plainenglish.io/javascript-front-end-frameworks-wrapper-9fab635378a0" target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion
+						JavaScript Front-end Frameworks Wrapper
 
-						<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637499951574/muR0hv-Lf.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"
+						<img src="https://miro.medium.com/max/2400/0*YHDD2PGRF-xeHdwY.jpg"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
-				<a href="https://abhirajb.hashnode.dev/web3-explain-like-im-five" target="_blank"
+				<a href="https://enlear.academy/top-software-development-trends-expected-to-dominate-in-2022-48617c351198" target="_blank"
 					rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Web3: Explain like I'm five
+						Top Software Development Trends Expected to Dominate in 2022
 
-						<img src="https://abhirajb.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638882597303%2Fve1qhNOUm.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
+						<img src="https://miro.medium.com/max/1400/1*ogAqoONZhlxgF3nA6lcc0A.jpeg"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
-				<a href="https://supabase.com/blog/2021/12/03/launch-week-three-friday-five-more-things" target="_blank" rel="noopener noreferrer">
+				<a href="https://langfordk.hashnode.dev/how-to-make-money-on-web3-today" target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Open source GraphQL PostgreSQL Extension
+						How To Make Money On Web3 Today!
 
-						<img src="https://supabase.com/images/blog/launch-week-three/five-more-things/five-more-things-thumb.png"
+						<img src="https://langfordk.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1640256977030%2FLrBHfh8g64.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
 
-				<a href="https://www.ayushsharma.in/2021/10/make-linux-apps-for-notion-mastodon-webapps-using-nativefier"
+				<a href="https://www.producthunt.com/posts/bricks-design-system"
 					target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Make Linux apps for Notion, Mastodon, or any web app using Nativefier
+						BRINKS Design System - A free, customizable MaterialUI design system
 
-						<img src="https://www.ayushsharma.in/static/images/img-normal/2021-10-10-make-linux-apps-for-notion-mastodon-webapps-using-nativefier-banner.png"
+						<img src="https://ph-files.imgix.net/8184d14b-cdb2-4165-8e8c-21bea2aa7dfb.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=676&h=380&fit=max&dpr=1"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
@@ -287,11 +287,11 @@ const News = () => {
 					</div>
 				</a>
 
-				<a href="https://levelup.gitconnected.com/top-10-php-8-1-features-you-should-start-using-now-7161b91275fd" target="_blank" rel="noopener noreferrer">
+				<a href="https://javascript.plainenglish.io/what-got-me-writing-vanilla-js-again-2c53756c8a4c" target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						Top 10 PHP 8.1 Features You Should Start Using Now
+						What Got Me Writing Vanilla JavaScript again
 
-						<img src="https://miro.medium.com/max/1400/1*Ky2c6CrwZl1Ga3AsEwqZvg.png"
+						<img src="https://miro.medium.com/max/1400/0*InBXZ6mkmqieGd6e"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
@@ -391,11 +391,11 @@ const News = () => {
 					</div>
 				</a>
 
-				<a href="https://www.sitepoint.com/micro-frontend-architecture-benefits/" target="_blank" rel="noopener noreferrer">
+				<a href="https://python.plainenglish.io/top-10-highest-paying-jobs-in-2022-e7de665eb175" target="_blank" rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						5 Reasons You Should Adopt a Micro Frontend Architecture
+						Top 10 Highest Paying Jobs in 2022
 
-						<img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638919155micro-frontends.jpg"
+						<img src="https://miro.medium.com/max/1400/1*Wt0IRCzFA-b6Yv1rgz_WEg.png"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
@@ -409,12 +409,12 @@ const News = () => {
 					</div>
 				</a>
 
-				<a href="https://blog.openreplay.com/5-projects-you-need-to-build-to-get-started-with-reactjs" target="_blank"
+				<a href="https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/" target="_blank"
 					rel="noopener noreferrer">
 					<div className="preview" data-sr={ scrollEffect }>
-						5 Projects You Need to Build to Get Started with Reactjs
+						Best practices for writing code comments
 
-						<img src="https://blog.openreplay.com/static/ee69c61954a334cf2e4474c17ba180ce/99fbb/hero.webp"
+						<img src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2021/07/blog-code-commenting-768x403.png"
 							loading="lazy" alt={ altNoWarning } />
 					</div>
 				</a>
